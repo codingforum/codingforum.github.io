@@ -7,3 +7,5 @@ Follow me on [Twitter 🐦](https://twitter.com/CodingForum0) and [Twitch 🖥](
 
 
 **Happy Coding!**
+
+![logo](assets/images/logo.png)
