@@ -1,3 +1,8 @@
+<style>
+    body {
+        font: 'JetBrains Mono'
+    }
+</style>
 
 My [Instagram 📸](https://instagram.com/codingforum) (15k+ followers 🫂).
 
