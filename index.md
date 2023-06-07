@@ -9,4 +9,4 @@ My [linktree 🌲](https://linktr.ee/codingforum).
 
 **Happy Coding!**
 
-![logo](assets/images/logo.png)
+<img src="./assets/images/logo.png" style="max-width=100%;">
